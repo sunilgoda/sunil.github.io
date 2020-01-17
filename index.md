@@ -4,4 +4,4 @@ Hello and welcome to this blog. All pages on the blog, including this one, use [
 
 ## Sunil Goda's Blog
 
-<! -- And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. -->
+<!-- And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. -->
